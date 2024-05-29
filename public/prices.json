@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "option_name": "Basic Membership",
+    "price": "$29.99/month",
+    "features": [
+      "Access to all gym equipment",
+      "Locker room and shower access",
+      "Free fitness assessment",
+      "Open gym hours",
+      "1 guest pass per month"
+    ]
+  },
+  {
+    "id": 2,
+    "option_name": "Standard Membership",
+    "price": "$49.99/month",
+    "features": [
+      "Access to all gym equipment",
+      "Locker room and shower access",
+      "Free fitness assessment",
+      "Open gym hours",
+      "5 guest passes per month",
+      "Access to group fitness classes"
+    ]
+  },
+  {
+    "id": 3,
+    "option_name": "Premium Membership",
+    "price": "$69.99/month",
+    "features": [
+      "Access to all gym equipment",
+      "Locker room and shower access",
+      "Free fitness assessment",
+      "Open gym hours",
+      "Unlimited guest passes",
+      "Access to group fitness classes",
+      "Free personal training session"
+    ]
+  },
+  {
+    "id": 4,
+    "option_name": "Family Membership",
+    "price": "$99.99/month",
+    "features": [
+      "Access to all gym equipment",
+      "Locker room and shower access",
+      "Free fitness assessment",
+      "Open gym hours",
+      "Unlimited guest passes",
+      "Access to group fitness classes",
+      "Free personal training session",
+      "Access for up to 4 family members"
+    ]
+  },
+  {
+    "id": 5,
+    "option_name": "Student Membership",
+    "price": "$19.99/month",
+    "features": [
+      "Access to all gym equipment",
+      "Locker room and shower access",
+      "Free fitness assessment",
+      "Open gym hours",
+      "2 guest passes per month",
+      "Discount on personal training sessions"
+    ]
+  },
+  {
+    "id": 6,
+    "option_name": "Senior Membership",
+    "price": "$24.99/month",
+    "features": [
+      "Access to all gym equipment",
+      "Locker room and shower access",
+      "Free fitness assessment",
+      "Open gym hours",
+      "3 guest passes per month",
+      "Access to senior-specific fitness classes"
+    ]
+  }
+]
